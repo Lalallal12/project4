@@ -38,9 +38,9 @@ ECS에 배포되어 있는 WEB/WAS 컨테이너 소스를 깃허브를 통해 �
 
 ### 📍 자산 점검 프로세스
 #### CVE 및 CCE 점검
-CVE 취약점은 AWS Inspector로, CCE 취약점은 AWS Config로 점검하며, 추가적으로 Guard Duty로 확인된 취약점은 Security hub로 전달됩니다. 
+CVE 취약점은 AWS Inspector로, CCE 취약점은 AWS Config로 점검하여 확인된 취약점은 Security hub로 전달됩니다. 
 #### 보안 강화 프로세스
-WAF, Guard Duty로 추가적인 보안을 강화합니다.
+WAF로 추가적인 보안을 강화합니다.
 
 ### 📍 알림
 #### 실시간 취약성 점검 결과 알림 (실시간 발생 시) 
