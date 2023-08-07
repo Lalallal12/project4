@@ -1,6 +1,7 @@
 # 자산 관리 시스템 
 ## Architecture
 ![Untitled (1)](https://github.com/Lalallal12/project4/assets/86557754/3d1ad8a0-8933-46cc-8493-9121a5f7e8ee)
+![Untitled (1)](https://github.com/Lalallal12/project4/assets/86557754/3b4bacfe-35da-40e5-976f-95fe276b365f)
 
 
 ## User Story
